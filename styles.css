@@ -21,7 +21,7 @@ body {
 
 .card-img-top {
     object-fit: cover;
-    height: 250px; /* Altura desejada para as imagens quadradas */
+    height: 300px; /* Altura desejada para as imagens quadradas */
     width: 100%; /* Ocupa toda a largura do container */
 }
 
